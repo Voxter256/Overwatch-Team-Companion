@@ -17,7 +17,7 @@ pyOpenSSL==17.5.0
 PyQRCode==1.2.1
 PySocks==1.6.7
 PyTrie==0.3
-requests==2.18.4
+requests==2.20.0
 scipy==1.0.0
 service-identity==17.0.0
 six==1.11.0
