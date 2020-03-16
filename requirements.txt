@@ -8,7 +8,7 @@ cryptography==2.3
 idna==2.6
 numpy==1.14.0
 olefile==0.45.1
-Pillow==5.2.0
+Pillow==6.2.0
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycparser==2.18
@@ -23,6 +23,6 @@ service-identity==17.0.0
 six==1.11.0
 sortedcontainers==1.5.9
 txaio==18.7.1
-urllib3==1.22
+urllib3==1.24.2
 win-inet-pton==1.0.1
 wincertstore==0.2
